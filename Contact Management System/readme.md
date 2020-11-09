@@ -6,7 +6,7 @@ CMS is a simple python based Contact Management System made using the tkinter li
 
 ## How to Download
 
-Download this project from here [Download Contact Management System](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Projects/tree/master/Weatherzilla%20-%20Weather%20App)
+Download this project from here [Download Contact Management System](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/GUI-Management-Systems/tree/main/Contact%20Management%20System)
 
 ## Requirements
 
