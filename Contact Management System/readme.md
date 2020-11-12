@@ -1,5 +1,9 @@
 # Contact Management System
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 CMS is a simple python based Contact Management System made using the tkinter library. It follows the principles of MVC to bring out the best user experience. 
 
 ![Alt text](app.png?raw=true "Contact Management System")
