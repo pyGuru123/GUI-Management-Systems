@@ -12,6 +12,6 @@ This repository contains some of the GUI based Inventory, Management & reservati
 	> A simple cafe management system made with python & tkinter.\
 	> Link to project : [Cafe Management System](https://github.com/pyGuru123/GUI-Management-Systems/tree/main/Cafe%20Management%20System)
 
-* ## Covid Tracker
-	> A simple covid spread visualizer made with tkintr, pandas & matplotlib.\
-	> Link to project : [Covid Tracker](https://github.com/pyGuru123/Python-Projects/tree/master/Covid%20Tracker)
+* ## Contact Management System
+	> A simple Contact Management System made with python & tkinter. \
+	> Link to project : [Contact Management System](https://github.com/pyGuru123/GUI-Management-Systems/tree/main/Contact%20Management%20System)
