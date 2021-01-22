@@ -8,9 +8,9 @@ This repository contains some of the GUI based Inventory, Management & reservati
 
 ### All the projects are listed here
 
-* ## Coastline
-	> A full fledged text editor made with python & tkinter.\
-	> Link to project : [Coastline](https://github.com/pyGuru123/Python-Projects/tree/master/Coastline%20-%20Text%20Editor)
+* ## Cafe Management System
+	> A simple cafe management system made with python & tkinter.\
+	> Link to project : [Cafe Management System](https://github.com/pyGuru123/GUI-Management-Systems/tree/main/Cafe%20Management%20System)
 
 * ## Covid Tracker
 	> A simple covid spread visualizer made with tkintr, pandas & matplotlib.\
