@@ -1,0 +1,13 @@
+Order Summary
+Customer Name : Apurva
+Order date time : Jan 23 ,2021   03:06:51 PM
+
+ item         | quantity | price    | total cost  
+ tea         | 1        | 10       | 10          
+ coffee      | 2        | 15       | 30          
+
+SubCost : 40
+Service Charge : 1.6
+GST : 2.0
+Discount : 0.0
+Total Cost : 43.6
